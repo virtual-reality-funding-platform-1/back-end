@@ -1,5 +1,4 @@
 API Deployed at
-https://build-foodtruck-trackr1.herokuapp.com/
 
 Librarys Used:
 Express - Fast, unopinionated, minimalist web framework for Node.js.
