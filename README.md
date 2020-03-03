@@ -1,4 +1,8 @@
-API Deployed at
+API Deployed at:
+https://vrfundingapp.herokuapp.com/
+
+Documentation:
+https://documenter.getpostman.com/view/9251980/SzKbMF9n?version=latest
 
 Librarys Used:
 Express - Fast, unopinionated, minimalist web framework for Node.js.
