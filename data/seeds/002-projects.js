@@ -5,15 +5,13 @@ exports.seed = function (knex) {
           projectname: "Test",
           description: "Test",
           username: "Test",
-          bio: "Test",
-          user_id: 1
+          bio: "Test"
         },
         {
           projectname: "Testing",
           description: "Testing",
           username: "Testing",
-          bio: "Testing",
-          user_id: 2
+          bio: "Testing"
         }
 
       ]);
