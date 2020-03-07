@@ -32,7 +32,6 @@ exports.up = function (knex) {
 
             tbl.text('username', 128)
                 .notNullable()
-                .unique();
 
             tbl.text('bio')
                 .notNullable()
